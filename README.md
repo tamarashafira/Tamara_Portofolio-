@@ -6,7 +6,7 @@ My data science portofolio
 - Analyzed amount of cluster using WSS method, silhouette method or gap statistics
 - Visualization mapping cluster data
 
-# [Project 2: Clustering Covid-19]
+# [Project 2: Clustering Covid-19] (https://github.com/tamarashafira/Covid-Clustering-)
 - Data from the Johns Hopkins University (https://coronavirus.jhu.edu/map.html)
 -  Count Top 15 confirmed Covid-19 cases worlwide, from the result US the most confirmed covid 19 with more than 6.000.000 people.
 - Measure would be the number of deaths normalized to populations.
