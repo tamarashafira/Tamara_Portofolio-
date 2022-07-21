@@ -1,4 +1,4 @@
-# Tamara_Portofolio-
+# Tamara_Portofolio
 My data science portofolio 
 
 # [Project 1: KMeans-Sklearn](https://github.com/tamarashafira/KMean-Sklearn)
